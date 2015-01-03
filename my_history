@@ -1,0 +1,500 @@
+   91  node test8.js
+   92  node test8.js
+   93  node test8.js
+   94  node test8.js
+   95  node test8.js
+   96  node test8.js
+   97  open kitten-toes.html
+   98  open kitten-toes.html
+   99  open kitten-toes.html
+  100  cd Class6
+  101  cd class6
+  102  pwd
+  103  ls
+  104  cd Class
+  105  ls
+  106  cd class6
+  107  ls
+  108  ls lib
+  109  open .
+  110  open .
+  111  open .
+  112  open .
+  113  git clone https://github.com/mel-quark/lab3-beg-track.git
+  114  cd lab3-beg-track
+  115  npm install
+  116  subl .
+  117  pwd
+  118  node lab3.js
+  119  test9.js
+  120  node test9.js
+  121  node test9.js
+  122  node test9.js
+  123  node test9.js
+  124  node test10.js
+  125  node test9.js
+  126  node test9.js
+  127  node test9.js
+  128  function bodySwap(a, b) {
+  129   (function (i) {
+  130    a = b;
+  131    b = i;
+  132   }) (a);
+  133   console.log(a, b);
+  134   node test9.js
+  135   node test9.js
+  136   node test9.js
+  137   node test9.js
+  138   node test9.js
+  139   node test9.js
+  140   node test9.js
+  141   node test9.js
+  142   node test9.js
+  143   node test9.js
+  144   node test9.js
+  145   node test9.js
+  146   node test9.js
+  147   node test9.js
+  148   node test9.js
+  149   node test9.js
+  150   node test9.js
+  151   node test9.js
+  152   node test9.js
+  153   node test9.js
+  154   node test9.js
+  155   node test9.js
+  156   node test9.js
+  157   node test9.js
+  158   node test9.js
+  159   node test9.js
+  160   node test9.js
+  161   node test9.js
+  162  node lab3.js
+  163  node test9.js
+  164  pwd
+  165  cd lab3-beg-track/
+  166  node test9.js
+  167  node test9.js
+  168  node test9.js
+  169  node test9.js
+  170  node test9.js
+  171  node test9.js
+  172  node test9.js
+  173  node test9.js
+  174  node test9.js
+  175  node test9.js
+  176  node test9.js
+  177  node lab3.js
+  178  node lab3.js
+  179  node test9.js
+  180  pwd
+  181  cd lab3-beg-track/
+  182  node test9.js
+  183  node test9.js
+  184  node test9.js
+  185  node test9.js
+  186  node test9.js
+  187  node test9.js
+  188  node test9.js
+  189  node test9.js
+  190  pwd
+  191  pwd
+  192  cd lab3-beg-track/
+  193  pwd
+  194  nod
+  195  pwd
+  196  node test9.js
+  197  node test9.js
+  198  node test9.js
+  199  node test9.js
+  200  node test9.js
+  201  node test9.js
+  202  node test9.js
+  203  node test9.js
+  204  node test9.js
+  205  node test9.js
+  206  node test9.js
+  207  node test9.js
+  208  node test9.js
+  209  node test9.js
+  210  node test9.js
+  211  node test9.js
+  212  node test9.js
+  213  node test9.js
+  214  node test9.js
+  215  node test9.js
+  216  node test9.js
+  217  node test9.js
+  218  node test9.js
+  219  node test9.js
+  220  node test9.js
+  221  node test9.js
+  222  node test9.js
+  223  node test9.js
+  224  pwd
+  225  pwd
+  226  pwd
+  227  node test9.js
+  228  node test9.js
+  229  node test9.js
+  230  node test9.js
+  231  node test9.js
+  232  node test9.js
+  233  node test9.js
+  234  node test9.js
+  235  node test9.js
+  236  node test9.js
+  237  node test9.js
+  238  node test9.js
+  239  node test9.js
+  240  node test9.js
+  241  node lab3.js
+  242  node lab3.js
+  243  node lab3.js
+  244  node test9.js
+  245  node test9.js
+  246  node test9.js
+  247  node test10.hs
+  248  node test10.js
+  249  node test9.js
+  250  node test9.js
+  251  node test9.js
+  252  node test9.js
+  253  node test9.js
+  254  node test9.js
+  255  node test9.js
+  256  node test9.js
+  257  node test9.js
+  258  node test9.js
+  259  node test9.js
+  260  node test9.js
+  261  node test9.js
+  262  node test9.js
+  263  node test9.js
+  264  node test9.js
+  265  node test9.js
+  266  node test9.js
+  267  node test9.js
+  268  node test9.js
+  269  node test9.js
+  270  node test9.js
+  271  node test9.js
+  272  node test9.js
+  273  node test9.js
+  274  node test9.js
+  275  node test9.js
+  276  node test9.js
+  277  node test9.js
+  278  node test9.js
+  279  node test9.js
+  280  node test9.js
+  281  node test9.js
+  282  node test9.js
+  283  node test9.js
+  284  node test9.js
+  285  node test9.js
+  286  node test9.js
+  287  node test9.js
+  288  node test9.js
+  289  node test9.js
+  290  node test9.js
+  291  node test9.js
+  292  node test9.js
+  293  node test9.js
+  294  node test9.js
+  295  node test9.js
+  296  node test10.js
+  297  node test10.js
+  298  node test10.js
+  299  node test10.js
+  300  node test9.js
+  301  node test9.js
+  302  node test9.js
+  303  node test9.js
+  304  node test9.js
+  305  node test10.js
+  306  node test10.js
+  307  node test10.js
+  308  node test10.js
+  309  node test9.js
+  310  node test9.js
+  311  node test9.js
+  312  node test9.js
+  313  node test9.js
+  314  node lab3.js
+  315  ./node_modules/.bin/grunt jshint
+  316  ./node_modules/.bin/grunt jscs
+  317  ./node_modules/.bin/grunt jscs
+  318  ./node_modules/.bin/grunt jscs
+  319  ./node_modules/.bin/grunt jscs
+  320  ./node_modules/.bin/grunt jscs
+  321  ./node_modules/.bin/grunt jscs
+  322  ./node_modules/.bin/grunt jscs
+  323  ./node_modules/.bin/grunt jscs
+  324  ./node_modules/.bin/grunt jscs
+  325  ./node_modules/.bin/grunt jscs
+  326  ./node_modules/.bin/grunt jshint
+  327  git clone https://github.com/brandonburns/simple-site.git
+  328  pwd
+  329  subl .
+  330  cd..
+  331  cd ..
+  332  cd ..
+  333  pwd
+  334  cd brandonburns
+  335  git clone https://github.com/brandonburns/simple-site.git
+  336  subl .
+  337  subl simple-site
+  338  npm install --save express
+  339  subl simple-site
+  340  pwd
+  341  cd simple-site/
+  342  npm install
+  343  npm install --save express
+  344  node server.js
+  345  node server.js
+  346  node server.js
+  347  node server.js
+  348  node server.js
+  349  node server.js
+  350  node server.js
+  351  node server.js
+  352  node server.js
+  353  node server.js
+  354  git add .
+  355  git commit -m "inspirational server"
+  356  git push origin master
+  357  git push origin master
+  358  git push origin master
+  359  pwd
+  360  node server.js
+  361  pwd
+  362  cd simple-site
+  363  node server.js
+  364  pwd
+  365  cd simple-site/
+  366  node server.js
+  367  node server.js
+  368  pwd
+  369  cd lab3-beg-track/
+  370  subl .
+  371  node lab3.js
+  372  node lab3.js
+  373  node lab3.js
+  374  node lab3.js
+  375  node lab3.js
+  376  node lab3.js
+  377  node lab3.js
+  378  node lab3.js
+  379  node lab3.js
+  380  node lab3.js
+  381  node test9.js
+  382  node test9.js
+  383  node test9.js
+  384  node test9.js
+  385  node test9.js
+  386  node test9.js
+  387  node test9.js
+  388  node test9.js
+  389  node test9.js
+  390  node test9.js
+  391  node test9.js
+  392  node test9.js
+  393  node test9.js
+  394  node test9.js
+  395  node test9.js
+  396  node test9.js
+  397  node test9.js
+  398  node test9.js
+  399  node test9.js
+  400  node test9.js
+  401  node test9.js
+  402  node test9.js
+  403  node test9.js
+  404  node test9.js
+  405  node test9.js
+  406  node test9.js
+  407  node test9.js
+  408  node lab3.js
+  409  node lab3.js
+  410  ./node_modules/.bin/grunt jshint
+  411  ./node_modules/.bin/grunt jscs
+  412  ./node_modules/.bin/grunt jscs
+  413  ./node_modules/.bin/grunt jscs
+  414  ./node_modules/.bin/grunt jshint
+  415  ./node_modules/.bin/grunt jscs
+  416  ./node_modules/.bin/grunt jscs
+  417  ./node_modules/.bin/grunt jshint
+  418  node lab3.js
+  419  node lab3.js
+  420  node lab3.js
+  421  ./node_modules/.bin/grunt jshint
+  422  ./node_modules/.bin/grunt jscs
+  423  ./node_modules/.bin/grunt jscs
+  424  node lab3.js
+  425  pwd
+  426  ls
+  427  cd Downloads
+  428  subl color-blocks.html
+  429  open color-blocks.html
+  430  pwd
+  431  open color-blocks.html
+  432  open color-blocks.html
+  433  open color-blocks.html
+  434  open color-blocks.html
+  435  open color-blocks.html
+  436  open color-blocks.html
+  437  open color-blocks.html
+  438  open color-blocks.html
+  439  open color-blocks.html
+  440  open color-blocks.html
+  441  open color-blocks.html
+  442  open color-blocks.html
+  443  open color-blocks.html
+  444  open color-blocks.html
+  445  open color-blocks.html
+  446  open color-blocks.html
+  447  open color-blocks.html
+  448  open color-blocks.html
+  449  open color-blocks.html
+  450  open color-blocks.html
+  451  open color-blocks.html
+  452  ls
+  453  pwd
+  454  cd /
+  455  ls
+  456  ls -lt
+  457  ls -l
+  458  ls r
+  459  r
+  460  ls -lr
+  461  ls r
+  462  ls -r
+  463  ls -t
+  464  ls -rt
+  465  man ls
+  466  man ls
+  467  man ls
+  468  man ls
+  469  ls -a
+  470  man ls
+  471  ls -G
+  472  ls
+  473  ls -G
+  474  man ls
+  475  ls -C
+  476  man ls
+  477  ls -i
+  478  man ls
+  479  ls -k
+  480  man ls
+  481  ls -@
+  482  man ls
+  483  cd /users/brandonburns1
+  484  ls
+  485  ls -l
+  486  ls -lp
+  487  cd Music
+  488  cd /
+  489  cd Applications
+  490  cd
+  491  ls
+  492  ls -l
+  493  ls
+  494  ls -l
+  495  cd lab2-beg-track
+  496  pwd
+  497  ls
+  498  cd class6
+  499  pwd
+  500  cd /
+  501  ..
+  502  cd ..
+  503  pwd
+  504  cd brandonburns1
+  505  pwd
+  506  ls
+  507  cd Class
+  508  pwd
+  509  ls
+  510  cd class6
+  511  ls
+  512  cd kitten-toes.cc
+  513  cd kitten-toes.css
+  514  cd ..
+  515  cd..
+  516  cd ..
+  517  cd ..
+  518  ls
+  519  cd brandonburns 1
+  520  cd brandonburns1
+  521  cd /
+  522  pwd
+  523  ls
+  524  cd Users
+  525  ls
+  526  cd brandonburns1
+  527  ls
+  528  cd Pictures
+  529  ls
+  530  cd ..
+  531  cd Documents
+  532  ls
+  533  cd Downloads
+  534  cd ../..
+  535  cd Downloads
+  536  ls
+  537  cd brandonburns1
+  538  ls
+  539  ls -l
+  540  cd lab1-adv-track
+  541  ls
+  542  cd lab1.js
+  543  ls
+  544  ls -l
+  545  ls node_modules
+  546  ls -l
+  547  cd node_modules
+  548  ls
+  549  ls -l
+  550  cd grunt
+  551  cd../../../..
+  552  cd ../..
+  553  cd ../../..
+  554  ls
+  555  cd /Users/brandonburns1
+  556  cd
+  557  ls
+  558  cd Applications
+  559  pwd
+  560  ls
+  561  ls
+  562  ls -l
+  563  cd
+  564  ls
+  565  cd Applications
+  566  cd ..
+  567  cd command-line-practice
+  568  ls
+  569   ls ~
+  570  cd
+  571  ls /command-line-practice
+  572  ls /
+  573  ls /Class
+  574  ls /
+  575  ls -l
+  576  ls /-l
+  577  ls /-l
+  578  ls .
+  579  ls
+  580  ls -;
+  581  ls -l
+  582  ls /lab3-beg-track
+  583  ls
+  584  ls command-line-practice
+  585  history
+  586  history | less
+  587  my_history > history
+  588  my_history
+  589  subl
+  590  history > my_history
